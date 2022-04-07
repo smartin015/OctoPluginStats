@@ -1622,19 +1622,19 @@
         ]
       }
     ],
-    "total": 5232,
+    "total": 5225,
     "versions": [
       {
         "version": "3.2.0",
-        "instances": 4065
+        "instances": 4061
       },
       {
         "version": "3.1.0",
-        "instances": 710
+        "instances": 707
       },
       {
         "version": "1.2.1",
-        "instances": 527
+        "instances": 526
       },
       {
         "version": "3.0.2",
@@ -1642,7 +1642,7 @@
       },
       {
         "version": "3.0.1",
-        "instances": 51
+        "instances": 50
       },
       {
         "version": "1.4",
@@ -1650,7 +1650,7 @@
       },
       {
         "version": "2.0.0",
-        "instances": 21
+        "instances": 20
       },
       {
         "version": "3.0.0",
@@ -3177,15 +3177,15 @@
         ]
       }
     ],
-    "total": 985,
+    "total": 986,
     "versions": [
       {
         "version": "0.8.0",
-        "instances": 626
+        "instances": 625
       },
       {
         "version": "0.8.1",
-        "instances": 600
+        "instances": 602
       },
       {
         "version": "0.7.2",
@@ -3652,11 +3652,11 @@
         ]
       }
     ],
-    "total": 663,
+    "total": 660,
     "versions": [
       {
         "version": "0.2.0",
-        "instances": 660
+        "instances": 657
       },
       {
         "version": "0.1.2",
@@ -4227,11 +4227,11 @@
         ]
       }
     ],
-    "total": 253,
+    "total": 251,
     "versions": [
       {
         "version": "1.5.1",
-        "instances": 248
+        "instances": 246
       },
       {
         "version": "1.5.0",
@@ -4670,11 +4670,11 @@
         ]
       }
     ],
-    "total": 385,
+    "total": 387,
     "versions": [
       {
         "version": "0.2.1",
-        "instances": 381
+        "instances": 383
       },
       {
         "version": "0.1.0",
@@ -5225,11 +5225,11 @@
         ]
       }
     ],
-    "total": 417,
+    "total": 415,
     "versions": [
       {
         "version": "1.1.1",
-        "instances": 414
+        "instances": 412
       },
       {
         "version": "1.0.0",
@@ -5664,15 +5664,15 @@
         ]
       }
     ],
-    "total": 917,
+    "total": 914,
     "versions": [
       {
         "version": "1.0.1",
-        "instances": 889
+        "instances": 887
       },
       {
         "version": "1.0.0",
-        "instances": 42
+        "instances": 41
       }
     ]
   }
