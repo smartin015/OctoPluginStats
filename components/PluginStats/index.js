@@ -1,4 +1,3 @@
-import VersionGraph from "./VersionGraph";
 import * as React from "react";
 import Typography from "@mui/material/Typography";
 import Grid from "@mui/material/Grid";
@@ -83,11 +82,6 @@ export default function PluginStats(props) {
             <Box key={plugin} sx={{minHeight: "390px", p: 2}}>
                 <Title total={stats[plugin].total} name={plugins[plugin]} />
                 <Grid container>
-                    <Grid item md={6} xs={12}>
-                        {Object.keys(stats[plugin].versions).length
-                        ? <VersionGraph data={dataToPie(stats[plugin].versions)} />
-                        : <Typography key={plugin} variant={"body1"}>No stats</Typography>}
-                    </Grid>
                     <Grid item md={6} xs={12}>
                         <HistoryGraph data={dataToLine(stats[plugin].history)} />
                     </Grid>
